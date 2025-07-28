@@ -1,0 +1,14 @@
+openai
+langgraph[inmem]
+langgraph
+langgraph-cli
+langgraph-sdk
+langgraph-checkpoint-sqlite
+langchain-core
+langchain-openai
+langchain-community
+langsmith
+tavily-python
+wikipedia
+python-dotenv
+pydantic
