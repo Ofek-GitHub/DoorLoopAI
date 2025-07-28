@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Ofek Siman-Tov",
+    "unit": "A101",
+    "rent_status": "late",
+    "last_payment_date": "2025-06-15",
+    "maintenance_issues": ["Leaky faucet", "Broken intercom"],
+    "notes": "Often late, but pays after reminders.",
+    "lease_end_date": "2026-01-01",
+    "contact_info": "ofek@example.com"
+  },
+  {
+    "name": "Sarah Klein",
+    "unit": "B202",
+    "rent_status": "paid",
+    "last_payment_date": "2025-07-01",
+    "maintenance_issues": [],
+    "notes": "Quiet and punctual. No issues.",
+    "lease_end_date": "2025-12-31",
+    "contact_info": "sarah.k@example.com"
+  },
+  {
+    "name": "David Levi",
+    "unit": "C303",
+    "rent_status": "unpaid",
+    "last_payment_date": "2025-05-20",
+    "maintenance_issues": ["Mold in bathroom", "No hot water"],
+    "notes": "Tenant unreachable for 2 weeks.",
+    "lease_end_date": "2025-11-15",
+    "contact_info": "david.levi@example.com"
+  },
+  {
+    "name": "Rachel Goldberg",
+    "unit": "D404",
+    "rent_status": "paid",
+    "last_payment_date": "2025-07-05",
+    "maintenance_issues": ["Clogged sink"],
+    "notes": "Reported issue via app. Cooperative.",
+    "lease_end_date": "2026-03-01",
+    "contact_info": "rachel.g@example.com"
+  },
+  {
+    "name": "Yossi Cohen",
+    "unit": "E505",
+    "rent_status": "late",
+    "last_payment_date": "2025-06-28",
+    "maintenance_issues": [],
+    "notes": "Asked for a short extension this month.",
+    "lease_end_date": "2026-06-30",
+    "contact_info": "yossi.c@example.com"
+  }
+]
