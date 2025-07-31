@@ -7,9 +7,9 @@ from enum import Enum
 
 
 class RentStatus(str, Enum):
-    PAID = "paid"
-    LATE = "late"
-    UNPAID = "unpaid"
+    paid = "paid"
+    late = "late"
+    unpaid = "unpaid"
 
 
 class Tenant(BaseModel):

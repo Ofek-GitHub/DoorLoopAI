@@ -12,3 +12,4 @@ tavily-python
 wikipedia
 python-dotenv
 pydantic
+pydantic[email]
